@@ -1,0 +1,5 @@
+https://www.codeproject.com/Articles/12445/%2FArticles%2F12445%2FConverting-PDF-to-Text-in-C
+http://www.planetpdf.com/planetpdf/pdfs/pdf2k/01W/rosenthol_intro2pdfprog.pdf
+https://www.albany.edu/faculty/dsaha/teach/2017Spring_CEN360/slides/lec18.pdf
+https://www.prepressure.com/pdf/basics/convert-pdf
+http://www.printmyfolders.com/understanding-pdf
